@@ -2,7 +2,7 @@
 
 Random Java training...
 
-![](https://github.com/mateusbaleta/cTraining/blob/main/img/cLang.png?raw=true)
+![](https://github.com/mateusbaleta/javaTraining/blob/main/img/java.png?raw=true)
 
 ## 🚀 Run
 
